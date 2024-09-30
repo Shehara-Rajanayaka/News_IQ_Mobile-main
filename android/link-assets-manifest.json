@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GaMaamli-Regular.ttf",
+      "sha1": "60e537042c085393fe254b0f1091850de6e1bb12"
+    },
+    {
+      "path": "assets/fonts/SFPRODISPLAYBOLD.OTF",
+      "sha1": "100e7b7fd24facbca4db38e6d4d7e01c73b82818"
+    },
+    {
+      "path": "assets/fonts/SFPRODISPLAYMEDIUM.OTF",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "assets/fonts/SFPRODISPLAYREGULAR.OTF",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    }
+  ]
+}
